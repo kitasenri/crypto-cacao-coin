@@ -1,4 +1,4 @@
 # crypto-cacao
 
-- Goerli Faucet
-  - https://goerlifaucet.com/
+- Sepolia Faucet
+  - https://sepoliafaucet.com/
