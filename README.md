@@ -1,6 +1,8 @@
 # crypto-cacao
 
 - Sepolia Faucet
+  - Add ETH for testnet.
   - https://sepoliafaucet.com/
 - Remix IDE
-  - https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js
+  - Build & Deploy to test net.
+  - https://remix.ethereum.org/
