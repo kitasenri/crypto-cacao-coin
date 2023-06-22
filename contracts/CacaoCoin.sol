@@ -14,7 +14,7 @@ contract CacaoCoin is Initializable, ERC20Upgradeable, ERC20BurnableUpgradeable,
     }
 
     function initialize() initializer public {
-        __ERC20_init("Cacao Coin", "MTK");
+        __ERC20_init("Cacao Coin", "CACAO");
         __ERC20Burnable_init();
         __Pausable_init();
         __Ownable_init();
